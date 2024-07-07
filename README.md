@@ -3,13 +3,14 @@
 
 **1. User Management Module**
 
-Tasks:
-Create User Registration and Login:
-Implement user registration functionality.
-Implement login functionality with authentication (e.g., JWT, OAuth).
-Role-Based Access Control:
-Define user roles (user, doctor, admin).
-Implement role-based access control.
+Tasks:</br>
+
+Create User Registration and Login:</br>
+Implement user registration functionality.</br>
+Implement login functionality with authentication (e.g., JWT, OAuth).</br>
+Role-Based Access Control:</br>
+Define user roles (user, doctor, admin).</br>
+Implement role-based access control.</br>
 
 **2. Drug Information Management Module**
 
