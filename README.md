@@ -1,7 +1,7 @@
 # DrugInventoryManagement
 
 
-1. User Management Module
+**1. User Management Module**
 
 Tasks:
 Create User Registration and Login:
@@ -11,7 +11,7 @@ Role-Based Access Control:
 Define user roles (user, doctor, admin).
 Implement role-based access control.
 
-2. Drug Information Management Module
+**2. Drug Information Management Module**
 
 Tasks:
 Drug Database Schema Design:
@@ -23,7 +23,7 @@ Implement functionality for admins to update existing drug information.
 Delete Drug:
 Implement functionality for admins to delete drugs from the inventory.
 
-3. Drug Search and Details Module
+**3. Drug Search and Details Module**
 
 Tasks:
 Search Functionality:
@@ -31,7 +31,7 @@ Implement search functionality for users to search drugs by name, category, or m
 View Drug Details:
 Implement functionality for users to view detailed information about a specific drug.
 
-4. Stock Management Module
+**4. Stock Management Module**
 
 Tasks:
 View Stock Levels:
@@ -39,7 +39,7 @@ Implement functionality for doctors to view current stock levels of all drugs.
 Update Stock Levels:
 Implement functionality for admins to update stock levels.
 
-5. User Interface Module
+**5. User Interface Module**
 
 Tasks:
 User Dashboard:
@@ -49,7 +49,7 @@ Design and implement the dashboard for doctors to view stock levels.
 Admin Dashboard:
 Design and implement the dashboard for admins to manage drugs and users.
 
-6. API Development Module
+**6. API Development Module**
 
 Tasks:
 RESTful API for Drug Management:
@@ -61,7 +61,7 @@ Develop API endpoints for viewing and updating stock levels.
 RESTful API for Search and Details:
 Develop API endpoints for searching drugs and viewing drug details.
 
-7. Security Module
+**7. Security Module**
 
 Tasks:
 Authentication and Authorization:
@@ -70,7 +70,7 @@ Ensure authorization checks for each endpoint based on user roles.
 Data Encryption:
 Implement data encryption for sensitive data at rest and in transit.
 
-8. Testing Module
+**8. Testing Module**
 
 Tasks:
 Unit Testing:
@@ -80,7 +80,7 @@ Write integration tests to ensure different modules work together.
 User Acceptance Testing (UAT):
 Conduct UAT to ensure the system meets user requirements.
 
-9. Deployment and Maintenance Module
+**9. Deployment and Maintenance Module**
 
 Tasks:
 Deployment Setup:
