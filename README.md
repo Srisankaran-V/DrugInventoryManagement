@@ -6,7 +6,6 @@
 Tasks:</br>
 
 Create User Registration and Login:</br>
-
 Implement user registration functionality.</br>
 Implement login functionality with authentication (e.g., JWT, OAuth).</br>
 Role-Based Access Control:</br>
