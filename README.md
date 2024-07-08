@@ -1,5 +1,6 @@
 # DrugInventoryManagement
 
+Figma File Link : https://www.figma.com/design/jxCKql42veiyCj65e6I9V7/Untitled?node-id=0-1&t=LmWllWxKhb8ZvAHR-1
 
 **1. User Management Module**
 
