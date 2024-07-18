@@ -1,3 +1,5 @@
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+
 const Login = () => {
   return (
     <>
@@ -28,7 +30,9 @@ const Login = () => {
         </button>
         <p className="text-sm ">
           Don't have an account ?&nbsp;
-          <button className="text-blue-400">&nbsp;SignUp </button>
+          <Link to="/signup">
+            <button className="text-blue-400">&nbsp;SignUp </button>
+          </Link>
         </p>
       </div>
     </>
